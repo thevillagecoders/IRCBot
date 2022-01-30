@@ -2,8 +2,8 @@
 
 ### Run the bot
   1) Install dependencies with: sudo python3 -m pip install -r https://raw.githubusercontent.com/ProgVal/Limnoria/master/requirements.txt --upgrade
-  2) In your git directory run: python3 ./scripts/supybot-wizard 
-  3) Then to run the bot run: screen python3 ./scripts/supybot YourBotName.conf
+  2) In your git directory run: python3 ./bin/scripts/supybot-wizard 
+  3) Then to run the bot run: screen python3 ./bin/scripts/supybot YourBotName.conf
 
 ### Setup repository
 #### Workflow through the web-interface.
